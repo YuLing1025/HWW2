@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的APP</string>
+    <string name="Name">名字</string>
+    <string name="Height">身高</string>
+    <string name="Weight">體重</string>
+    <string name="MEOW">喵</string>
+    <string name="TEXT">文字</string>
+</resources>
